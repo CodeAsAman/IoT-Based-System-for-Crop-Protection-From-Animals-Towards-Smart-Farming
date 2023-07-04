@@ -1,5 +1,4 @@
 # IoT-Based-System-for-Crop-Protection-From-Animals-Towards-Smart-Farming
-This project provide a solution to farmers for protecting their crops by using IoT and ML algorithm.
 No one can imagine a world without agriculture. Due to overpopulation and deforestation, animal interference in residential areas is increasing day by day affecting human life and property, and causing
 human-animal conflict. At the present time, farmers in India and other countries are facing a serious
 threat from wildlife animals which causes less production in crop yielding. It is not possible to stay in the
